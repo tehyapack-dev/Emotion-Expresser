@@ -1,7 +1,5 @@
 # Emotion-Expresser
 
-# run the program
-# click on the black box with text that comes up
-# type either h for happy, s for sad, a for angry or c for calm and press enter
-# watch the corresponding gradient appear
-# to see another gradient, simply type a different letter and press enter
+How to use: Simply run the program and click on the box that appears
+Then simply type one of the allocated emotions
+You can view as many emotions as you like, simply keep typing!
